@@ -1,0 +1,56 @@
+body {
+    background-color: orange;
+    padding-top: 40px;
+    font-family: 'Lato', sans-serif;
+}
+
+nav {
+    background: rgba(0, 0, 255, 0.68);
+    width: 100%;
+    padding: 15px;
+    padding-left: 37%;
+    position: fixed;
+    top: 0;
+    left: 0px;
+}
+
+nav a {
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: black;
+    background-color: white;
+}
+
+p { 
+    line-height: 50px;
+    padding: 20px;
+}
+
+h1 { 
+    text-align: center;
+    margin-top: 100px;
+}
+
+h2 {
+    padding-left: 30px;
+    margin-top: 100px
+}
+
+img, iframe {
+    height: 250px;
+    width: 250px;
+}
+
+.media {
+    padding-left: 160px;
+}
+
+footer {
+    margin-left: 47%;
+    font-size: 20px;
+}
